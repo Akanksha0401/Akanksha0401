@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
-![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
+![](https://media3.giphy.com/media/fwbzI2kV3Qrlpkh59e/giphy.gif?cid=6c09b952i1u8x9mruq3wwbl1raletjcpmfm6bu4pg95o70e6&ep=v1_stickers_related&rid=giphy.gif&ct=s)
 
 <img alt="Coder GIF" height=300 width=300 src="https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing" />
 
@@ -8,7 +8,7 @@
 
 
 **Akanksha0401/Akanksha0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47r1x82i3wqkfhfo7iomma88rx893mb0aei8ziibky&ep=v1_stickers_search&rid=giphy.gif&ct=s
+
 -->
