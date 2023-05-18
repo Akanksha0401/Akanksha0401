@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
-![](https://media.tenor.com/I5iY9Hj8YGQAAAAi/kroppa-digital.gif)
+![](https://media.tenor.com/Li7HobCHqa0AAAAj/trial.gif)
 
 <img alt="Coder GIF" height=100 width=100 src="https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing" />
 
