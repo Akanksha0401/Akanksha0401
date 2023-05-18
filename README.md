@@ -1,8 +1,7 @@
 # Hi there 👋
-<!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
 ![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
-<img alt="Coder GIF" height=300 width=300 src="https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing" />
+
 
 <!--### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
