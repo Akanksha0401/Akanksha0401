@@ -1,4 +1,4 @@
-# Hi there <img src="https://media2.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif" width="50">
+# Hi there <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="50">
 ![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
 ## About Me
@@ -9,7 +9,7 @@
 
 **Akanksha0401/Akanksha0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
+https://media2.giphy.com/media/Q73tw53AU8VM83ao9B/giphy.gif
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
