@@ -5,7 +5,7 @@
 - 👩‍💻 I'm a Computer Science Undergraduate ,incoming SWE Intern'23 @Microsoft India
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-<img src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="100>
+<img src="https://github.com/Akanksha0401/Akanksha0401/blob/main/programmer.gif" width="100>
 
 **Akanksha0401/Akanksha0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
