@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://github.com/Akanksha0401/Akanksha0401/blob/main/programmer.gif)
+![](https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing)
 
 <!--
 **Akanksha0401/Akanksha0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
