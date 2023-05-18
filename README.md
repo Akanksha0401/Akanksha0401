@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
-![](https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47r1x82i3wqkfhfo7iomma88rx893mb0aei8ziibky&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
 <img alt="Coder GIF" height=300 width=300 src="https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing" />
 
@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+https://media3.giphy.com/media/zhYSVCirREeIZtONCI/giphy.gif?cid=ecf05e47r1x82i3wqkfhfo7iomma88rx893mb0aei8ziibky&ep=v1_stickers_search&rid=giphy.gif&ct=s
 -->
