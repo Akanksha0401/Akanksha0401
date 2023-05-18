@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
-![](https://media2.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif?cid=ecf05e470pvo5aioybpgmmcl5bhevr00xtuqh4dtogkrvdmo&ep=v1_stickers_search&rid=giphy.gif&ct=s)
+![](https://media2.giphy.com/media/iIGT8Y1rOYhBpdHh1C/giphy_s.gif?cid=ecf05e477xvpi2y347fd3vrwcdsd7izdrc0tmjon1rbswvwr&ep=v1_stickers_search&rid=giphy_s.gif&ct=s)
 
 <img alt="Coder GIF" height=300 width=300 src="https://drive.google.com/file/d/1h8YRzQpvTxL2YRYeojMsiyONW6iAj1gB/view?usp=sharing" />
 
