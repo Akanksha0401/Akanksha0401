@@ -1,15 +1,14 @@
 # Hi there 👋
 ![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
+##About Me
+- sdfghjkl;
 
-
-<!--### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 
 
 **Akanksha0401/Akanksha0401** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-https://media2.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=6c09b952pg361li01ntlw97pckqiv9fbtdm7j5xaut7kewzo&ep=v1_stickers_related&rid=giphy.gif&ct=s
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
