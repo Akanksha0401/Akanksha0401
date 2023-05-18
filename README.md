@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 <!--# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />-->
 ![](https://media2.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif?cid=6c09b952pg361li01ntlw97pckqiv9fbtdm7j5xaut7kewzo&ep=v1_stickers_related&rid=giphy.gif&ct=s)
 
