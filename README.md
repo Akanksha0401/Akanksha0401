@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img alt="Coder GIF" height=250 width=350 src="https://github.com/Akanksha0401/Akanksha0401/blob/main/programmer.gif" />
+<img alt="Coder GIF" height=250 width=350 src="https://magiccopy.xyz/assets/images/hadder.gif" />
 <br>
 
 <!--
