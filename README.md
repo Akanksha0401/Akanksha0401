@@ -18,6 +18,6 @@
 </p>
 
 ---
-## My Github Stats  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
+### My Github Stats  <img src="https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30">
 ![Akanksha's github stats](https://github-readme-stats.vercel.app/api?username=akanksha0401&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
 
