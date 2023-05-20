@@ -2,7 +2,7 @@
 ![](https://media4.giphy.com/media/qT3NpahR7tGnOqqjng/giphy.gif?cid=ecf05e472b1u5qtv5vwcrk2zewsjquykf9u75z3i2smf5ms6&ep=v1_gifs_related&rid=giphy.gif&ct=s)
 
 ## About Me:
-- 👩‍💻 I'm a Computer Science Undergraduate ,incoming SWE Intern'23 @Microsoft India
+- 👩‍💻 I'm a Computer Science Undergraduate working on frontend development
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 🌱 I’m currently learning Data Structures and Algorithms ,System Design Fundamentals and .NET Core
 - 💬 Talk to me about JavaScript, Node.js, Web development 
@@ -23,5 +23,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha0401&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Contact: <img src="https://img.icons8.com/?size=1x&id=HNy79eeq1L8R&format=gif" width="30">
+### Contact: 
+<p align="center">
+<a href="https://twitter.com/Akanksh15948541" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/am0401/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+
+</p>
 
