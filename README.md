@@ -9,6 +9,7 @@
 - 🪛 Tech I work on:
 - <p align="center">
       <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="65" height="65"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png?20170928190710" alt="C++" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65"/>
       <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/> 
