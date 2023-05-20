@@ -7,5 +7,12 @@
 - 🌱 I’m currently learning Data Structures and Algorithms ,System Design Fundamentals and .NET Core
 - 💬 Talk to me about JavaScript, Node.js, Web development 
 - 🪛 Tech I work on:
+- <p align="center">
+      <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/> 
+      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="65" height="65"/>
+      <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="65" height="65"/>
 
 
