@@ -17,5 +17,5 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="65" height="65"/>
 </p>
 
-## My Github Stats  <img src="https://cdn.dribbble.com/userupload/3931175/file/original-a3c650d7ad8cbca11b6cc9bbb42f8cf5.png?compress=1&resize=1024x768" width="50">
+## My Github Stats  <img src="https://cdn.dribbble.com/userupload/2608299/file/original-00f24643a2c18bc04251f7a2019d4743.gif" width="50">
 
