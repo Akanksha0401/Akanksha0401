@@ -23,5 +23,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akanksha0401&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-### Contact: 
+### Contact: <img src="https://img.icons8.com/?size=1x&id=uiCge755lurb&format=gif" width="30">
 
