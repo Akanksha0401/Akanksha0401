@@ -17,5 +17,5 @@
       <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Google Firebase" width="65" height="65"/>
 </p>
 
-## My Github Stats
+## My Github Stats  <img src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif" width="50">
 
