@@ -25,8 +25,8 @@
 ---
 ### Contact: 
 <p align="center">
-<a href="https://twitter.com/Akanksh15948541" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/am0401/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
+<a href="https://twitter.com/Akanksh15948541" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="akanksha" height="30" width="30" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/am0401/" target="blank"><img align="center" src="hhttps://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="akanksha" height="30" width="30" /></a>&nbsp;
 
 </p>
 
